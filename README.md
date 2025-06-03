@@ -1,3 +1,3 @@
 # Project_Day002
 
-This is the second project in 100 day challenge
+This is the 2nd project in the 100 Day Challenge.
